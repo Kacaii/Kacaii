@@ -16,19 +16,19 @@
 <h3 align="center"><strong>Back-End || Front-End || FullStack </strong> Developer 💻</h3>
 
 <p align="center">
-  <strong>Sua faculdade/período de um curso (No último período de ADS da faculdade X) </strong><br>
-  <strong>O que você vem estudando (Kotlin, Mongo, ...)</strong>📚<br>
-  <strong>Seus conhecimentos (Git/Github, Java, OO, ...)</strong>🚀<br>
+  <strong>Aluno da Faculdade SENAC-PE </strong><br>
+  <strong>Atualmente no primeiro período</strong>📚<br>
+  <strong>HTML, CSS e Javascript</strong>🚀<br>
 </p>
 
 <div align="center">
 
-![Your github status](https://github-readme-stats.vercel.app/api?username=Duduxs&show_icons=true&theme=dark)
+![Your github status](https://github-readme-stats.vercel.app/api?username=Kacaii&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacaii&layout=compact&theme=dark)](https://github.com/Kacaii/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacaii&layout=compact&theme=dark)](https://github.com/Kacaii/github-readme-stats)
 
   </div>
 
