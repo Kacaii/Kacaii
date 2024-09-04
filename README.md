@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Eu sou <strong>Ayres</strong>, bem-vindo ao meu perfil
+<h1 align="center"> Olá! Eu sou <strong>Ayres</strong>, seja bem-vindo ao meu perfil
 <img src="https://media1.tenor.com/m/85eRCxT9I0QAAAAC/ekubo-dimple.gif" width="100px"></h1>
 
 <!--
@@ -24,7 +24,7 @@
 
 <p align="center">
   <strong>Aluno da Faculdade SENAC-PE </strong><br>
-  <strong>Atualmente cursando o primeiro período</strong> 📚<br>
+  <strong>Atualmente cursando o primeiro período de ADS</strong> 📚<br>
   <strong>HTML, CSS e Javascript</strong> 🚀<br>
 </p>
 
