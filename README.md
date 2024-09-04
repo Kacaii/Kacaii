@@ -1,6 +1,7 @@
-<h1 align="center"> Olá, eu sou <strong>Ayres</strong> bem-vindo ao meu perfil!
-<img src="https://media1.tenor.com/m/85eRCxT9I0QAAAAC/ekubo-dimple.gif" width="30px"></h1>
+<h1 align="center"> Olá! Eu sou <strong>Ayres</strong>, bem-vindo ao meu perfil
+<img src="https://media1.tenor.com/m/85eRCxT9I0QAAAAC/ekubo-dimple.gif" width="100px"></h1>
 
+<!--
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=SEU-LINKEDIN-AQUI)](SEU-LINKEDIN-AQUI)
@@ -11,14 +12,20 @@
 
 </div>
 
-<hr>
 
-<h3 align="center"><strong>Back-End || Front-End || FullStack </strong> Developer 💻</h3>
+
+<h2>
+
+-->
+
+<h3 align="center"><strong>FullStack </strong> Developer 💻</h3>
+
+
 
 <p align="center">
   <strong>Aluno da Faculdade SENAC-PE </strong><br>
-  <strong>Atualmente no primeiro período</strong>📚<br>
-  <strong>HTML, CSS e Javascript</strong>🚀<br>
+  <strong>Atualmente cursando o primeiro período</strong> 📚<br>
+  <strong>HTML, CSS e Javascript</strong> 🚀<br>
 </p>
 
 <div align="center">
