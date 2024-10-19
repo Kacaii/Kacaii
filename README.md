@@ -12,8 +12,8 @@ Full Stack Development, Cybersecurity, and Digital Design.
 ![Static Badge](https://img.shields.io/badge/fishshell-black?logo=fishshell&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/neovim-%2300b952?logo=neovim&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Linux-e94e09?logo=linux&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Excalidraw-6964d9?logo=excalidraw&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ChatGPT-black?logo=openai&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Excalidraw-6964d9?logo=excalidraw&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/httpie-%2373DC8C?logo=httpie&logoColor=white)
 
 ## 💻 Projects
