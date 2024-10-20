@@ -1,21 +1,18 @@
-# Hi there! Im Kacaii 👋
-
-<!-- markdownlint-disable MD051 -->
+# Hi there! Im Kacaii
 
 <!--toc:start-->
 
-- [Hi there! Im Kacaii 👋](#hi-there-im-kacaii-👋)
-  - [🛠️ Technologies & Tools](#🛠️-technologies-tools)
-  - [💻 Projects](#💻-projects)
-  - [💬 Let's connect](#💬-lets-connect)
-  - [📊 GitHub Stats](#📊-github-stats)
-
-<!--toc:end-->
+- [Hi there! Im Kacaii](#hi-there-im-kacaii)
+  - [Technologies and Tools](#technologies-and-tools)
+  - [Projects](#projects)
+  - [Let's connect](#lets-connect)
+  - [GitHub Stats](#github-stats)
+  <!--toc:end-->
 
 I'm a Systems Analysis and Development student at SENAC-PE, passionate about
 Full Stack Development, Cybersecurity, and Digital Design.
 
-## 🛠️ Technologies & Tools
+## Technologies and Tools
 
 ![Static Badge](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Deno-70FFAF?logo=deno&logoColor=black)
@@ -29,15 +26,15 @@ Full Stack Development, Cybersecurity, and Digital Design.
 ![Static Badge](https://img.shields.io/badge/HTTPie-73DC8C?logo=httpie&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/fishshell-34C534?logo=fishshell&logoColor=white)
 
-## 💻 Projects
+## Projects
 
 - [SENAC Coding Assignments](https://github.com/Kacaii/Senac-Coding)
 - [SENAC DataBank Assignments](https://github.com/Kacaii/Senac-Databank)
 
-## 💬 Let's connect
+## Let's connect
 
 [![Static Badge](https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ayres-307353189/)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![ Kacaii's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacaii&show_icons=true&theme=catppuccin_mocha)
