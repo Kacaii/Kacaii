@@ -1,20 +1,33 @@
 # Hi there! Im Kacaii 👋
 
+<!-- markdownlint-disable MD051 -->
+
+<!--toc:start-->
+
+- [Hi there! Im Kacaii 👋](#hi-there-im-kacaii-👋)
+  - [🛠️ Technologies & Tools](#🛠️-technologies-tools)
+  - [💻 Projects](#💻-projects)
+  - [💬 Let's connect](#💬-lets-connect)
+  - [📊 GitHub Stats](#📊-github-stats)
+
+<!--toc:end-->
+
 I'm a Systems Analysis and Development student at SENAC-PE, passionate about
 Full Stack Development, Cybersecurity, and Digital Design.
 
 ## 🛠️ Technologies & Tools
 
-![Static Badge](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Deno-black?logo=deno&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Mermaid-db2777?logo=mermaid&logoColor=white)
-![Static Badge](https://img.shields.io/badge/sqlite-044a64?logo=sqlite&logoColor=white)
-![Static Badge](https://img.shields.io/badge/fishshell-black?logo=fishshell&logoColor=white)
-![Static Badge](https://img.shields.io/badge/neovim-%2300b952?logo=neovim&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Linux-e94e09?logo=linux&logoColor=white)
-![Static Badge](https://img.shields.io/badge/ChatGPT-black?logo=openai&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Excalidraw-6964d9?logo=excalidraw&logoColor=white)
-![Static Badge](https://img.shields.io/badge/httpie-%2373DC8C?logo=httpie&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Deno-70FFAF?logo=deno&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Mermaid-FF3670?logo=mermaid&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
+![Static Badge](https://img.shields.io/badge/LazyVim-2E7DE9?logo=lazyvim&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Static Badge](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Excalidraw-6965DB?logo=excalidraw&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTTPie-73DC8C?logo=httpie&logoColor=black)
+![Static Badge](https://img.shields.io/badge/fishshell-34C534?logo=fishshell&logoColor=white)
 
 ## 💻 Projects
 
