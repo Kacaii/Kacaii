@@ -24,7 +24,7 @@ I'm a **Systems Analysis and Development** student at SENAC-PE, passionate about
 ![Static Badge](https://img.shields.io/badge/Excalidraw-6965DB?logo=excalidraw&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTTPie-73DC8C?logo=httpie&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/fishshell-34C534?logo=fishshell&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Fishshell-34C534?logo=fishshell&logoColor=white)
 
 ## Projects
 
