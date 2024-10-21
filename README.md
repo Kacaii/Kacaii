@@ -9,8 +9,8 @@
   - [GitHub Stats](#github-stats)
   <!--toc:end-->
 
-I'm a Systems Analysis and Development student at SENAC-PE, passionate about
-Full Stack Development, Cybersecurity, and Digital Design.
+I'm a **Systems Analysis and Development** student at SENAC-PE, passionate about
+**Full Stack Development**, **Cybersecurity**, and **Digital Design**.
 
 ## Technologies and Tools
 
@@ -34,6 +34,7 @@ Full Stack Development, Cybersecurity, and Digital Design.
 ## Let's connect
 
 [![Static Badge](https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ayres-307353189/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Kacaii)
 
 ## GitHub Stats
 
