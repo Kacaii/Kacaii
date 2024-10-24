@@ -18,7 +18,7 @@ I'm a **Systems Analysis and Development** student at SENAC-PE, passionate about
 ![Static Badge](https://img.shields.io/badge/Deno-70FFAF?logo=deno&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Mermaid-FF3670?logo=mermaid&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/LazyVim-2E7DE9?logo=lazyvim&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Excalidraw-6965DB?logo=excalidraw&logoColor=white)
