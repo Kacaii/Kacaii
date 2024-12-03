@@ -29,8 +29,8 @@ I'm a **Systems Analysis and Development** student at SENAC-PE, passionate about
 
 ## Projects
 
-- [SENAC Coding Assignments](https://github.com/Kacaii/Senac-Coding)
-- [SENAC DataBank Assignments](https://github.com/Kacaii/Senac-Databank)
+- [SENAC Coding Assignments](https://github.com/Kacaii/senac-coding-01)
+- [SENAC DataBank Assignments](https://github.com/Kacaii/senac-databank-01)
 
 ## Let's connect
 
