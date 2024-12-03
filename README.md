@@ -7,7 +7,8 @@
   - [Projects](#projects)
   - [Let's connect](#lets-connect)
   - [GitHub Stats](#github-stats)
-  <!--toc:end-->
+
+<!--toc:end-->
 
 I'm a **Systems Analysis and Development** student at SENAC-PE, passionate about
 **Full Stack Development**, **Cybersecurity**, and **Digital Design**.
