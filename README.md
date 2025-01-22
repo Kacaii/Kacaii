@@ -1,17 +1,7 @@
 # Hi there! Im Kacaii
 
-<!--toc:start-->
-
-- [Hi there! Im Kacaii](#hi-there-im-kacaii)
-  - [Technologies and Tools](#technologies-and-tools)
-  - [Projects](#projects)
-  - [Let's connect](#lets-connect)
-  - [GitHub Stats](#github-stats)
-
-<!--toc:end-->
-
 I'm a **Systems Analysis and Development** student at SENAC-PE, passionate about
-**Full Stack Development**, **Cybersecurity**, and **Digital Design**.
+**Full Stack Development** and **Digital Design**. Currently exploring different languages.
 
 ## Technologies and Tools
 
