@@ -1,7 +1,8 @@
 # Hi there! Im Kacaii
 
 I'm a **Systems Analysis and Development** student at SENAC-PE, passionate about
-**Full Stack Development** and **Digital Design**. Currently exploring different languages.
+**Full Stack Development** and **Digital Design**.
+Currently exploring different languages.
 
 ## Technologies and Tools
 
@@ -24,7 +25,7 @@ I'm a **Systems Analysis and Development** student at SENAC-PE, passionate about
 
 ## Let's connect
 
-[![Static Badge](https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ayres-307353189/)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ayres-307353189/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Kacaii)
 
 ## GitHub Stats
