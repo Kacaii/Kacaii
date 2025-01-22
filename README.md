@@ -6,17 +6,15 @@ Currently exploring different languages.
 
 ## Technologies and Tools
 
-![Static Badge](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Deno-70FFAF?logo=deno&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Mermaid-FF3670?logo=mermaid&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Neovim-0f191f?logo=neovim&logoColor=#57A143)
-![Static Badge](https://img.shields.io/badge/LazyVim-2E7DE9?logo=lazyvim&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Excalidraw-6965DB?logo=excalidraw&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Zig-111111?logo=Zig&logoColor=F7A41D)
 ![Static Badge](https://img.shields.io/badge/Golang-%2300ADD8?logo=go&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Neovim-0f191f?logo=neovim&logoColor=#57A143)
+![Static Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Zig-111111?logo=Zig&logoColor=F7A41D)
 
 ## Projects
 
