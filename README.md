@@ -18,8 +18,11 @@ Currently exploring different languages.
 
 ## Projects
 
-- [SENAC Coding Assignments](https://github.com/Kacaii/senac-coding-01)
-- [SENAC DataBank Assignments](https://github.com/Kacaii/senac-databank-01)
+- [Custom Prompt](https://github.com/Kacaii/zig-custom-prompt)
+- [Portfolio](https://github.com/Kacaii/dev-portfolio)
+
+- [SENAC Coding Assignments](https://github.com/Kacaii/senac-coding-02)
+- [SENAC DataBank Assignments](https://github.com/Kacaii/senac-databank-02)
 
 ## Let's connect
 
