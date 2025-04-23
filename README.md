@@ -19,7 +19,6 @@ Currently exploring different languages.
 ## Projects
 
 - [Custom Prompt](https://github.com/Kacaii/zig-custom-prompt)
-- [Portfolio](https://github.com/Kacaii/dev-portfolio)
 
 - [SENAC Coding Assignments](https://github.com/Kacaii/senac-coding-02)
 - [SENAC DataBank Assignments](https://github.com/Kacaii/senac-databank-02)
