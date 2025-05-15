@@ -26,7 +26,3 @@ Currently exploring different languages.
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ayres-307353189/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Kacaii)
-
-## GitHub Stats
-
-![ Kacaii's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacaii&show_icons=true&theme=catppuccin_mocha)
