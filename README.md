@@ -18,8 +18,7 @@ Currently exploring different languages.
 
 ## Projects
 
-- [SENAC Coding Assignments](https://github.com/Kacaii/senac-coding-02)
-- [SENAC DataBank Assignments](https://github.com/Kacaii/senac-databank-02)
+- [SENAC DataScience Assignments](https://github.com/Kacaii/senac-datascience)
 - [Custom Prompt written in Zig](https://github.com/Kacaii/zig-custom-prompt)
 
 ## Let's connect
