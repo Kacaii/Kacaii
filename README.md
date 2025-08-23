@@ -18,6 +18,7 @@ Currently exploring different languages.
 
 ## Projects
 
+- [Pokedex PWA](https://github.com/Kacaii/pokedex)
 - [SENAC DataScience Assignments](https://github.com/Kacaii/senac-datascience)
 - [Custom Prompt written in Zig](https://github.com/Kacaii/zig-custom-prompt)
 
