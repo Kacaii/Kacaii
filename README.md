@@ -1,14 +1,14 @@
 # Hi there! Im Kacaii
 
 I'm a **Systems Analysis and Development** student at SENAC-PE, passionate about
-**Full Stack Development** and **Digital Design**.
-Currently exploring different languages.
+**Backend Development**, **Cybersecurity** and **Digital Design**.
+Currently learning more about Gleam and the BEAM VM.
 
 ## Technologies and Tools
 
-![Static Badge](https://img.shields.io/badge/Deno-70FFAF?logo=deno&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Gleam-292d3e?logo=gleam)
+![Static Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Deno-70FFAF?logo=deno&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Golang-%2300ADD8?logo=go&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Neovim-0f191f?logo=neovim&logoColor=#57A143)
@@ -19,7 +19,7 @@ Currently exploring different languages.
 ## Projects
 
 - [SENAC DataScience Assignments](https://github.com/Kacaii/senac-datascience)
-- [SENAC PI 2025:2](https://github.com/Kacaii/senac-brigade-server)
+- [SENAC Firefighters Backend API](https://github.com/Kacaii/senac-brigade-server)
 - [SENAC Pokedex PWA](https://github.com/Kacaii/pokedex)
 
 ## Let's connect
