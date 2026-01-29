@@ -4,6 +4,8 @@ I'm a **Systems Analysis and Development** student at SENAC-PE, passionate about
 **Backend Development**, **Cybersecurity** and **Digital Design**.
 Currently learning more about Gleam and the BEAM VM.
 
+I recently moved to tangled! Please check the pinned link.
+
 ## Technologies and Tools
 
 ![Static Badge](https://img.shields.io/badge/Gleam-292d3e?logo=gleam)
